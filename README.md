@@ -1,3 +1,6 @@
 # project-drone-image-navigation
-here we will manage our project
-i just want to add here some lines
+Here we will manage our final project
+
+ Link to our project video:
+ https://youtu.be/Ba2M4ftsmyU
+ 
